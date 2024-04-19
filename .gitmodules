@@ -1,0 +1,3 @@
+[submodule "pre-commit"]
+	path = pre-commit
+	url = https://github.com/klutometis/pre-commit.git
