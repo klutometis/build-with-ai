@@ -75,6 +75,6 @@ transition: fade-out
 
 # Let's get started!
 
-## [bit.ly/build-with-ai-trading](http://bit.ly/build-with-ai-trading)
+## [bit.ly/build-with-ai-day-trading](https://bit.ly/build-with-ai-day-trading)
 
 <img src="/build-with-ai-trading.svg" style="transform: scale(0.50); transform-origin: top left" />
