@@ -62,10 +62,14 @@ transition: fade-out
 
 # First, does everyone have their Gemini API Key?
 
+<v-clicks>
+
 1. Go to [ai.google.dev](http://ai.google.dev).
 2. Click "Get API key in Google AI Studio."
 3. Click "Get API Key."
 4. Click "Create API Key."
+
+</v-clicks>
 
 ---
 
